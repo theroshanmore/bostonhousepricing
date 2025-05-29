@@ -42,7 +42,9 @@ venv\Scripts\activate    # Windows
 ```bash
 pip install -r requirements.txt
 ```
+---
 ## 📁 Project Structure
+```
 project-root/
 ├── app.py                  # Main application code
 ├── regmodel.pkl            # Pre-trained regression model
@@ -51,7 +53,8 @@ project-root/
 │   └── home.html           # Frontend template
 ├── requirements.txt        # Dependencies list
 └── README.md
-
+```
+---
 ## 🧠 Running the Application
 
 ```bash
